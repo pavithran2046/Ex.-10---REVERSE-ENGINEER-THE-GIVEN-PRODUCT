@@ -31,10 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/pavithran2046/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139334834/99f0389f-2953-48e6-b7c7-761712afbfc1)
+![Screenshot 2024-04-29 174848](https://github.com/pavithran2046/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139334834/5a6470c7-1488-4671-8788-ae2a2d43dcfd)
+
 
 ### Output:
-![image](https://github.com/pavithran2046/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139334834/ca46bf91-2de5-48aa-8554-f3a14281e803)
+![Screenshot 2024-04-29 174913](https://github.com/pavithran2046/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139334834/4a474f3c-482d-4b87-a87f-d8b55e5fd6ad)
+
 
 
 ### Name: pavithran S
